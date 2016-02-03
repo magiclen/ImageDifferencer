@@ -17,7 +17,7 @@ or
 
       java -jar ImageDifferencer.jar INPUT_IMAGE_FILE_PATH_1 INPUT_IMAGE_FILE_PATH_2 OUTPUT_IMAGE_FILE_PATH
 
-       or
+or
 
       java -jar ImageDifferencer.jar INPUT_IMAGE_FILE_PATH_1 INPUT_IMAGE_FILE_PATH_2 OUTPUT_IMAGE_FILE_PATH [PNG/JPEG/TIFF/BMP/GIF]
 
